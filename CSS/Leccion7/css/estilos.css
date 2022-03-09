@@ -7,7 +7,7 @@ h1{
 .caja{
     padding: 5px;
     width: 40%;
-    height: 80px;
+    height: 100px;
     border-radius: 5px;
     color: white;
     text-align: center;
@@ -34,3 +34,15 @@ h1{
 .fuente_verdana{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.caja.monospace{
+ background-color: #f15bb5 ;
+}
+.fuente_courier{
+    font-family: 'Courier New', Courier, monospace;
+}
+.caja.cursive{
+    background-color: #ff8500 ;
+   }
+.fuente_lucida{
+       font-family: 'Lucida Handwriting', cursive;
+   }
