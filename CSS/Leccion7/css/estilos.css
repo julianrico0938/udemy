@@ -29,7 +29,7 @@ h1{
     font-style: normal;
     font-weight: normal;
     font-variant: small-caps;
-    font-size: 20px;*/
+    font-size: 20px;
     /*font: font-style font-variant font weight font-size/line-height font-family;*/
     font: italic small-caps bolder 20px Roboto, sans-serif; 
 }
